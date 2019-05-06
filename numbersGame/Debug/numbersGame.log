@@ -1,0 +1,57 @@
+﻿Build started 5/21/2016 1:51:25 AM.
+     1>Project "C:\Users\Amr\Documents\Visual Studio 2013\Projects\GraphicsnumbersGame\numbersGame\numbersGame.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Amr\Documents\Visual Studio 2013\Projects\GraphicsnumbersGame\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/include/" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\numbersGame.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt numbersGame.cpp
+         numbersGame.cpp
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(81): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(92): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(111): warning C4305: 'argument' : truncation from 'double' to 'GLclampf'
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(144): warning C4101: 'c' : unreferenced local variable
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(192): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(197): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(198): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(201): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(202): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(206): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(208): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(210): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(240): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(243): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(249): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(250): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(265): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(266): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(272): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(275): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(347): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(353): warning C4005: 'IN' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(79) : see previous definition of 'IN'
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(354): warning C4005: 'OUT' : macro redefinition
+                 c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(83) : see previous definition of 'OUT'
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(386): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(396): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(397): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(404): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(418): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(458): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(460): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(466): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(467): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(500): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(502): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(504): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(508): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(510): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(514): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(515): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\amr\documents\visual studio 2013\projects\graphicsnumbersgame\numbersgame\numbersgame.cpp(527): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Amr\Documents\Visual Studio 2013\Projects\GraphicsnumbersGame\Debug\numbersGame.exe" /INCREMENTAL /NOLOGO "C:\Users\Amr\Documents\Visual Studio 2013\Projects\GraphicsnumbersGame\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/Win32\glew32.lib" "C:\Users\Amr\Documents\Visual Studio 2013\Projects\GraphicsnumbersGame\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/Win32\glfw3dll.lib" "C:\Users\Amr\Documents\Visual Studio 2013\Projects\GraphicsnumbersGame\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/Win32\freeglut.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Amr\Documents\Visual Studio 2013\Projects\GraphicsnumbersGame\Debug\numbersGame.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Amr\Documents\Visual Studio 2013\Projects\GraphicsnumbersGame\Debug\numbersGame.lib" /MACHINE:X86 Debug\image.obj
+         Debug\numbersGame.obj
+         Debug\stdafx.obj
+         numbersGame.vcxproj -> C:\Users\Amr\Documents\Visual Studio 2013\Projects\GraphicsnumbersGame\Debug\numbersGame.exe
+     1>Done Building Project "C:\Users\Amr\Documents\Visual Studio 2013\Projects\GraphicsnumbersGame\numbersGame\numbersGame.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.69
